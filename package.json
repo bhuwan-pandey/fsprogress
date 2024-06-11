@@ -1,0 +1,29 @@
+{
+  "name": "fsprogress",
+  "version": "1.0.0",
+  "description": "fsprogress is a light-weight javascript (NodeJS) library to copy and move file(s), folder(s) along with method-call and event based progress tracking, managing concurrency of operation and a little more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fs progress",
+    "progress",
+    "node",
+    "copy",
+    "move",
+    "copy progress",
+    "move progress",
+    "node progress",
+    "file progress",
+    "get size",
+    "sizify"
+  ],
+  "author": "Daemon",
+  "license": "MIT",
+  "homepage": "https://gitlab.com/bhuwanpandey999/daemonic-progress#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/bhuwanpandey999/daemonic-progress.git"
+  }
+}
